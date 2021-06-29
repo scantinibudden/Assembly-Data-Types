@@ -1,0 +1,3 @@
+{oro-5-[]}
+{basto-9-[{copa-3-[]},{oro-5-[]}]}
+{basto-9-[{copa-3-[]},{oro-5-[{basto-9-[{copa-3-[]},{oro-5-[]}]}]},{copa-3-[]},{oro-5-[]}]}
